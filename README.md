@@ -1,6 +1,6 @@
 # Project-1
 
-GitHub Live Page: https://strawberryboar.github.io/Meal-Assistant/
+GitHub Live Page: https://vmcgargill.github.io/Meal-Assistant/
 
 Contributors: Athena Petrovich (strawberryboar), Maynard Peralta (maynperalta), & Vincent McGargill (vmcgargill)
 
