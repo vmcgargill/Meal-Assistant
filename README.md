@@ -1,4 +1,4 @@
-# Project-1
+# Meal Assistant
 
 GitHub Live Page: https://vmcgargill.github.io/Meal-Assistant/
 
